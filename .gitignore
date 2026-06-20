@@ -1,0 +1,18 @@
+# Arquivos de build do Quartus II
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.jdi
+*.done
+*.pof
+*.sof
+
+# Backups do editor
+*.bak
+*.vhdl.bak
